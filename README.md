@@ -1,6 +1,3 @@
-To describe the requirements for running your taxi fare prediction project on GitHub, you should include information about the necessary applications, libraries, frameworks, APIs, and environment configurations. Here’s an example breakdown that you can use to describe it in your GitHub repository:
-
----
 
 ### Taxi Fare Prediction System - Requirements
 
