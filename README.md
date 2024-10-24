@@ -117,7 +117,4 @@ This data can be stored as CSV files or in a database.
 
 6. **Access the web application**:
    Open a browser and go to `http://127.0.0.1:5000`.
-
----
-
-By including this in your GitHub README file, it will provide users with all the necessary information to set up, install, and run the taxi fare prediction project.
+   
